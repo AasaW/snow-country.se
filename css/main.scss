@@ -1,0 +1,27 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+html {
+	font-size: 20px;
+}
+body {
+	background-color: #0c0c0c;
+	background-image: linear-gradient(to bottom, #615e58 0%,#0a090a 34%,#0c0c0c 100%);
+	background-repeat: repeat-y;
+	background-size: 100% 1rem;
+	background-position: 50% 0;
+	color: #fff;
+	font: 2rem Calibri, sans-serif;
+	line-height: 1.25;
+	text-transform: uppercase;
+	letter-spacing: .15em;
+	text-align: center;
+	margin: 2rem;
+}
+h1 {
+	font-size: 3rem;
+	margin: 0 0 1rem;
+}
+p {
+	font-size: 1;
+}
